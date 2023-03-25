@@ -48,5 +48,12 @@ namespace Akademi_Transportation.Controllers
             db.SaveChanges();
             return RedirectToAction("Index");
         }
+        public ActionResult DeleteEmployee(int id)
+        {
+            var value = db.TblEmployee.Find(id);
+            db.TblEmployee.Remove(value);
+            db.SaveChanges();
+            return RedirectToAction("Index");
+        }
     }
 }
