@@ -1,0 +1,51 @@
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\BusinessLayer\bin\Debug\net5.0\EntityLayer.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\BusinessLayer\bin\Debug\net5.0\EntityLayer.pdb
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\BusinessLayer\obj\Debug\net5.0\refint\BusinessLayer.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\BusinessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\BusinessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\BusinessLayer\obj\Debug\net5.0\refint\BusinessLayer.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\BusinessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\BusinessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\BusinessLayer\obj\Debug\net5.0\refint\BusinessLayer.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll

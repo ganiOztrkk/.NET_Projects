@@ -1,0 +1,54 @@
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\DataAccessLayer\bin\Debug\net5.0\EntityLayer.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\DataAccessLayer\bin\Debug\net5.0\EntityLayer.pdb
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CopyComplete
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\DataAccessLayer\obj\Debug\net5.0\refint\DataAccessLayer.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\DataAccessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\DataAccessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\DataAccessLayer\obj\Debug\net5.0\refint\DataAccessLayer.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\DataAccessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\DataAccessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\DataAccessLayer\obj\Debug\net5.0\refint\DataAccessLayer.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll

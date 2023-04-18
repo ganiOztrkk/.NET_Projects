@@ -1,0 +1,45 @@
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.json
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.dev.json
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\EntityLayer\obj\Debug\net5.0\refint\EntityLayer.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\EntityLayer\obj\Debug\net5.0\EntityLayer.genruntimeconfig.cache
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.json
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.dev.json
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\EntityLayer\obj\Debug\net5.0\refint\EntityLayer.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\EntityLayer\obj\Debug\net5.0\EntityLayer.genruntimeconfig.cache
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.json
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.dev.json
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\EntityLayer\obj\Debug\net5.0\refint\EntityLayer.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\EntityLayer\obj\Debug\net5.0\EntityLayer.genruntimeconfig.cache
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll

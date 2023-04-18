@@ -1,0 +1,360 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\gani9\\Documents\\GitHub\\.NET_Projects\\Proje2-Agriculture-.Net.Core\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\gani9\\Documents\\GitHub\\.NET_Projects\\Proje2-Agriculture-.Net.Core\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gani9\\Documents\\GitHub\\.NET_Projects\\Proje2-Agriculture-.Net.Core\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation.csproj",
+        "projectName": "AgriculturePresentation",
+        "projectPath": "C:\\Users\\gani9\\Documents\\GitHub\\.NET_Projects\\Proje2-Agriculture-.Net.Core\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation.csproj",
+        "packagesPath": "C:\\Users\\gani9\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gani9\\Documents\\GitHub\\.NET_Projects\\Proje2-Agriculture-.Net.Core\\AgriculturePresentation\\AgriculturePresentation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gani9\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://www.nuget.org/api/v2/curated-feeds/microsoftdotnet/": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\gani9\\Documents\\GitHub\\.NET_Projects\\Proje2-Agriculture-.Net.Core\\AgriculturePresentation\\BusinessLayer\\BusinessLayer.csproj": {
+                "projectPath": "C:\\Users\\gani9\\Documents\\GitHub\\.NET_Projects\\Proje2-Agriculture-.Net.Core\\AgriculturePresentation\\BusinessLayer\\BusinessLayer.csproj"
+              },
+              "C:\\Users\\gani9\\Documents\\GitHub\\.NET_Projects\\Proje2-Agriculture-.Net.Core\\AgriculturePresentation\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\gani9\\Documents\\GitHub\\.NET_Projects\\Proje2-Agriculture-.Net.Core\\AgriculturePresentation\\DataAccessLayer\\DataAccessLayer.csproj"
+              },
+              "C:\\Users\\gani9\\Documents\\GitHub\\.NET_Projects\\Proje2-Agriculture-.Net.Core\\AgriculturePresentation\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\gani9\\Documents\\GitHub\\.NET_Projects\\Proje2-Agriculture-.Net.Core\\AgriculturePresentation\\EntityLayer\\EntityLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.100.3, )"
+            },
+            "EPPlus": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.2.2, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gani9\\Documents\\GitHub\\.NET_Projects\\Proje2-Agriculture-.Net.Core\\AgriculturePresentation\\BusinessLayer\\BusinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gani9\\Documents\\GitHub\\.NET_Projects\\Proje2-Agriculture-.Net.Core\\AgriculturePresentation\\BusinessLayer\\BusinessLayer.csproj",
+        "projectName": "BusinessLayer",
+        "projectPath": "C:\\Users\\gani9\\Documents\\GitHub\\.NET_Projects\\Proje2-Agriculture-.Net.Core\\AgriculturePresentation\\BusinessLayer\\BusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\gani9\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gani9\\Documents\\GitHub\\.NET_Projects\\Proje2-Agriculture-.Net.Core\\AgriculturePresentation\\BusinessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gani9\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://www.nuget.org/api/v2/curated-feeds/microsoftdotnet/": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\gani9\\Documents\\GitHub\\.NET_Projects\\Proje2-Agriculture-.Net.Core\\AgriculturePresentation\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\gani9\\Documents\\GitHub\\.NET_Projects\\Proje2-Agriculture-.Net.Core\\AgriculturePresentation\\DataAccessLayer\\DataAccessLayer.csproj"
+              },
+              "C:\\Users\\gani9\\Documents\\GitHub\\.NET_Projects\\Proje2-Agriculture-.Net.Core\\AgriculturePresentation\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\gani9\\Documents\\GitHub\\.NET_Projects\\Proje2-Agriculture-.Net.Core\\AgriculturePresentation\\EntityLayer\\EntityLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.2.2, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gani9\\Documents\\GitHub\\.NET_Projects\\Proje2-Agriculture-.Net.Core\\AgriculturePresentation\\DataAccessLayer\\DataAccessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gani9\\Documents\\GitHub\\.NET_Projects\\Proje2-Agriculture-.Net.Core\\AgriculturePresentation\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectName": "DataAccessLayer",
+        "projectPath": "C:\\Users\\gani9\\Documents\\GitHub\\.NET_Projects\\Proje2-Agriculture-.Net.Core\\AgriculturePresentation\\DataAccessLayer\\DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\gani9\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gani9\\Documents\\GitHub\\.NET_Projects\\Proje2-Agriculture-.Net.Core\\AgriculturePresentation\\DataAccessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gani9\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://www.nuget.org/api/v2/curated-feeds/microsoftdotnet/": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\gani9\\Documents\\GitHub\\.NET_Projects\\Proje2-Agriculture-.Net.Core\\AgriculturePresentation\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\gani9\\Documents\\GitHub\\.NET_Projects\\Proje2-Agriculture-.Net.Core\\AgriculturePresentation\\EntityLayer\\EntityLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gani9\\Documents\\GitHub\\.NET_Projects\\Proje2-Agriculture-.Net.Core\\AgriculturePresentation\\EntityLayer\\EntityLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gani9\\Documents\\GitHub\\.NET_Projects\\Proje2-Agriculture-.Net.Core\\AgriculturePresentation\\EntityLayer\\EntityLayer.csproj",
+        "projectName": "EntityLayer",
+        "projectPath": "C:\\Users\\gani9\\Documents\\GitHub\\.NET_Projects\\Proje2-Agriculture-.Net.Core\\AgriculturePresentation\\EntityLayer\\EntityLayer.csproj",
+        "packagesPath": "C:\\Users\\gani9\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gani9\\Documents\\GitHub\\.NET_Projects\\Proje2-Agriculture-.Net.Core\\AgriculturePresentation\\EntityLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gani9\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://www.nuget.org/api/v2/curated-feeds/microsoftdotnet/": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

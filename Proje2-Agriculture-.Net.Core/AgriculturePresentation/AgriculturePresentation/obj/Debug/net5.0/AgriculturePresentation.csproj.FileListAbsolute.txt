@@ -1,0 +1,675 @@
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\appsettings.Development.json
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\appsettings.json
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\AgriculturePresentation.exe
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\AgriculturePresentation.deps.json
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\AgriculturePresentation.runtimeconfig.json
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\AgriculturePresentation.runtimeconfig.dev.json
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\AgriculturePresentation.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\AgriculturePresentation.pdb
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\AgriculturePresentation.Views.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\AgriculturePresentation.Views.pdb
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Humanizer.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\BusinessLayer.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\DataAccessLayer.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\EntityLayer.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\BusinessLayer.pdb
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\DataAccessLayer.pdb
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\EntityLayer.pdb
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.csproj.AssemblyReference.cache
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.AssemblyInfoInputs.cache
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.AssemblyInfo.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.csproj.CoreCompileInputs.cache
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.MvcApplicationPartsAssemblyInfo.cache
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.RazorAssemblyInfo.cache
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.RazorAssemblyInfo.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\scopedcss\bundle\AgriculturePresentation.styles.css
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\staticwebassets\AgriculturePresentation.StaticWebAssets.Manifest.cache
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\staticwebassets\AgriculturePresentation.StaticWebAssets.Pack.cache
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\staticwebassets\msbuild.AgriculturePresentation.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\staticwebassets\msbuild.build.AgriculturePresentation.props
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.AgriculturePresentation.props
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.AgriculturePresentation.props
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.TagHelpers.input.cache
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.TagHelpers.output.cache
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.RazorCoreGenerate.cache
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.RazorTargetAssemblyInfo.cache
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.RazorTargetAssemblyInfo.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.Views.pdb
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.csproj.CopyComplete
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\refint\AgriculturePresentation.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.pdb
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.genruntimeconfig.cache
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\ref\AgriculturePresentation.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Default\Index.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Service\Index.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Service\AddService.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Service\EditService.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Employee\Index.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Employee\AddEmployee.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\FluentValidation.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.MvcApplicationPartsAssemblyInfo.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Employee\EditEmployee.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Announcement\AddAnnouncement.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Announcement\Index.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Announcement\EditAnnouncement.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Image\Index.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Image\AddImage.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Image\EditImage.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Address\Index.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Address\EditAddress.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Contact\Index.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Contact\MessageDetails.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\AdminPartials\PartialHead.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\AdminPartials\PartialNavbar.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\AdminPartials\PartialSidebar.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\AdminPartials\PartialScript.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Components\_HeadPartial\Default.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Components\_TopAddressPartial\Default.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Components\_SocialMediaPartial\Default.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Components\_NavbarPartial\Default.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Components\_AboutPartial\Default.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Components\_ServicePartial\Default.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Components\_EmployeePartial\Default.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Components\_AnnouncementPartial\Default.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Components\_GalleryPartial\Default.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Components\_AddressPartial\Default.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Default\SendMessage.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Components\_MapPartial\Default.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Default\ScriptPartial.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Admin\Index.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Admin\AddAdmin.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Components\_DashboardHeaderPartial\Default.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Dashboard\Index.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Components\_DashboardNavbarPartial\Default.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Components\_DashboardOverviewPartial\Default.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Components\_DashboardChartPartial\Default.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Components\_DashboardTablePartial\Default.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Components\_DashboardScriptPartial\Default.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Chart\Index.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Report\Index.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\EPPlus.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\EPPlus.Interfaces.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\EPPlus.System.Drawing.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\ClosedXML.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\DocumentFormat.OpenXml.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\ExcelNumberFormat.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Irony.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\SixLabors.Fonts.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\System.IO.Packaging.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\XLParser.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Login\SignUp.cshtml.g.cs
+D:\GitHub\.NetProjects\Project4-Agriculture-MVC-Core-CodeFirst\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Profile\Index.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\appsettings.json
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\AgriculturePresentation.exe
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\AgriculturePresentation.deps.json
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\AgriculturePresentation.runtimeconfig.json
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\AgriculturePresentation.runtimeconfig.dev.json
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\AgriculturePresentation.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\AgriculturePresentation.pdb
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\AgriculturePresentation.Views.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\AgriculturePresentation.Views.pdb
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\ClosedXML.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\DocumentFormat.OpenXml.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\EPPlus.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\EPPlus.Interfaces.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\EPPlus.System.Drawing.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\ExcelNumberFormat.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Humanizer.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Irony.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\SixLabors.Fonts.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\System.IO.Packaging.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\XLParser.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.csproj.AssemblyReference.cache
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.AssemblyInfoInputs.cache
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.AssemblyInfo.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.csproj.CoreCompileInputs.cache
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.RazorAssemblyInfo.cache
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.RazorAssemblyInfo.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\scopedcss\bundle\AgriculturePresentation.styles.css
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\staticwebassets\AgriculturePresentation.StaticWebAssets.Manifest.cache
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\staticwebassets\AgriculturePresentation.StaticWebAssets.Pack.cache
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\staticwebassets\msbuild.AgriculturePresentation.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\staticwebassets\msbuild.build.AgriculturePresentation.props
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.AgriculturePresentation.props
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.AgriculturePresentation.props
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.TagHelpers.input.cache
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.TagHelpers.output.cache
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.RazorCoreGenerate.cache
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Address\EditAddress.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Address\Index.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\AdminPartials\PartialHead.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\AdminPartials\PartialNavbar.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\AdminPartials\PartialScript.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\AdminPartials\PartialSidebar.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Admin\AddAdmin.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Announcement\AddAnnouncement.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Announcement\EditAnnouncement.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Announcement\Index.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Chart\Index.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Contact\Index.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Contact\MessageDetails.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Default\Index.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Default\ScriptPartial.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Default\SendMessage.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Employee\AddEmployee.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Employee\EditEmployee.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Employee\Index.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Image\AddImage.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Image\EditImage.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Image\Index.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Login\SignUp.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Profile\Index.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Report\Index.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Service\AddService.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Service\EditService.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Service\Index.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Components\_AboutPartial\Default.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Components\_AddressPartial\Default.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Components\_AnnouncementPartial\Default.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Components\_DashboardChartPartial\Default.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Components\_DashboardHeaderPartial\Default.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Components\_DashboardNavbarPartial\Default.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Components\_DashboardOverviewPartial\Default.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Components\_DashboardScriptPartial\Default.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Components\_DashboardTablePartial\Default.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Components\_EmployeePartial\Default.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Components\_GalleryPartial\Default.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Components\_HeadPartial\Default.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Components\_MapPartial\Default.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Components\_NavbarPartial\Default.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Components\_ServicePartial\Default.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Components\_SocialMediaPartial\Default.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Components\_TopAddressPartial\Default.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.RazorTargetAssemblyInfo.cache
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.RazorTargetAssemblyInfo.cs
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.Views.pdb
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.csproj.CopyComplete
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\refint\AgriculturePresentation.dll
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.pdb
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.genruntimeconfig.cache
+C:\Users\gani9\Downloads\Project4-Agriculture-MVC-Core-CodeFirst - Kopya\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\ref\AgriculturePresentation.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\appsettings.json
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\AgriculturePresentation.exe
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\AgriculturePresentation.deps.json
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\AgriculturePresentation.runtimeconfig.json
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\AgriculturePresentation.runtimeconfig.dev.json
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\AgriculturePresentation.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\AgriculturePresentation.pdb
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\AgriculturePresentation.Views.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\AgriculturePresentation.Views.pdb
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\ClosedXML.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\DocumentFormat.OpenXml.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\EPPlus.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\EPPlus.Interfaces.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\EPPlus.System.Drawing.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\ExcelNumberFormat.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Humanizer.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Irony.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\SixLabors.Fonts.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\System.IO.Packaging.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\XLParser.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.csproj.AssemblyReference.cache
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.AssemblyInfoInputs.cache
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.AssemblyInfo.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.csproj.CoreCompileInputs.cache
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.RazorAssemblyInfo.cache
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.RazorAssemblyInfo.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\scopedcss\bundle\AgriculturePresentation.styles.css
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\staticwebassets\AgriculturePresentation.StaticWebAssets.Manifest.cache
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\staticwebassets\AgriculturePresentation.StaticWebAssets.Pack.cache
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\staticwebassets\msbuild.AgriculturePresentation.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\staticwebassets\msbuild.build.AgriculturePresentation.props
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.AgriculturePresentation.props
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.AgriculturePresentation.props
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.TagHelpers.input.cache
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.TagHelpers.output.cache
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.RazorCoreGenerate.cache
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Address\EditAddress.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Address\Index.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\AdminPartials\PartialHead.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\AdminPartials\PartialNavbar.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\AdminPartials\PartialScript.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\AdminPartials\PartialSidebar.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Admin\AddAdmin.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Announcement\AddAnnouncement.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Announcement\EditAnnouncement.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Announcement\Index.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Chart\Index.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Contact\Index.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Contact\MessageDetails.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Default\Index.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Default\ScriptPartial.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Default\SendMessage.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Employee\AddEmployee.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Employee\EditEmployee.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Employee\Index.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Image\AddImage.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Image\EditImage.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Image\Index.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Login\SignUp.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Profile\Index.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Report\Index.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Service\AddService.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Service\EditService.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Service\Index.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Components\_AboutPartial\Default.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Components\_AddressPartial\Default.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Components\_AnnouncementPartial\Default.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Components\_DashboardChartPartial\Default.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Components\_DashboardHeaderPartial\Default.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Components\_DashboardNavbarPartial\Default.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Components\_DashboardOverviewPartial\Default.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Components\_DashboardScriptPartial\Default.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Components\_DashboardTablePartial\Default.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Components\_EmployeePartial\Default.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Components\_GalleryPartial\Default.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Components\_HeadPartial\Default.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Components\_MapPartial\Default.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Components\_NavbarPartial\Default.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Components\_ServicePartial\Default.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Components\_SocialMediaPartial\Default.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Components\_TopAddressPartial\Default.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.RazorTargetAssemblyInfo.cache
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.RazorTargetAssemblyInfo.cs
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.Views.pdb
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.csproj.CopyComplete
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\refint\AgriculturePresentation.dll
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.pdb
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\AgriculturePresentation.genruntimeconfig.cache
+C:\Users\gani9\Documents\GitHub\.NET_Projects\Proje2-Agriculture-.Net.Core\AgriculturePresentation\AgriculturePresentation\obj\Debug\net5.0\ref\AgriculturePresentation.dll
